@@ -1,6 +1,5 @@
 # This is my DAO Tutorial
 
-This sentence describes what my project is about summarized.
 
 ## More Details
 
