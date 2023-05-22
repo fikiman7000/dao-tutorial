@@ -1,15 +1,14 @@
-# This is my project title
+# This is my DAO Tutorial
 
 This sentence describes what my project is about summarized.
 
 ## More Details
 
-I can explain how my project works here with different topics.
-
+This project can be called a democratic process because it enables members to be able to vote on proposals, in this regard, they have to make a token payment so as to have a voice. 
 ## Upcoming
 
 - [x] I have done this activity
-- [ ] I plan to do this activity next
+- [ ] I plan to create a decentralized exchange in subsequent tutorial to further help in this project.
 
 ## Contribution
 
